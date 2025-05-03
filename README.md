@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Minahil-Hub
-💬 My recent projects are mostly private and can be showed upon request of employers.
-📫 How to reach me: mnaseer@mun.ca 
-😄 Pronouns: She/Her
+### 👋 Hi, I'm Minahil Naseer
+- 🎓 Computer Science student @ Memorial University
+- 💻 Interested in full-stack dev, AI, and cloud computing
+- 🌐 Portfolio: [minahilnaseer.netlify.app](https://minahilnaseer.netlify.app)
+- 📫 Reach me at: minahil@example.com
 
 --->
